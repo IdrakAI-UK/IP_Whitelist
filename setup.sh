@@ -3,6 +3,9 @@
 # Move the scripts to /root directory
 echo "Starting Setup..."
 
+echo "Moving ufw_firewall.sh and fetch_ip.sh to /root directory..."
+mv ufw_firewall.sh /root/
+mv fetch_ip.sh /root/
 
 # Make the scripts executable
 chmod +x /root/ufw_firewall.sh
