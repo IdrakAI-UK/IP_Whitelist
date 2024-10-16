@@ -1,6 +1,6 @@
 ### `README.md`
 
-```markdown
+markdown
 # Firewall Management with UFW and Dynamic IP Whitelisting
 
 This repository provides two main scripts:
